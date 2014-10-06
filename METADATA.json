@@ -1,0 +1,24 @@
+{
+  "name": "Noto Sans Brahmi",
+  "designer": "Monotype Design team",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 15742,
+  "fonts": [
+    {
+      "name": "Noto Sans Brahmi",
+      "style": "normal",
+      "weight": 400,
+      "filename": "NotoSansBrahmi-Regular.ttf",
+      "postScriptName": "NotoSansBrahmi",
+      "fullName": "Noto Sans Brahmi",
+      "copyright": "Copyright 2013 Google Inc. All Rights Reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-06"
+}
